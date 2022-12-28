@@ -1,0 +1,17 @@
+D:\C#\PinPong\bin\Release\net6.0-windows\PinPong.exe
+D:\C#\PinPong\bin\Release\net6.0-windows\PinPong.deps.json
+D:\C#\PinPong\bin\Release\net6.0-windows\PinPong.runtimeconfig.json
+D:\C#\PinPong\bin\Release\net6.0-windows\PinPong.dll
+D:\C#\PinPong\bin\Release\net6.0-windows\PinPong.pdb
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.csproj.AssemblyReference.cache
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.Form1.resources
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.csproj.GenerateResource.cache
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.AssemblyInfoInputs.cache
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.AssemblyInfo.cs
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.csproj.CoreCompileInputs.cache
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.dll
+D:\C#\PinPong\obj\Release\net6.0-windows\refint\PinPong.dll
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.pdb
+D:\C#\PinPong\obj\Release\net6.0-windows\PinPong.genruntimeconfig.cache
+D:\C#\PinPong\obj\Release\net6.0-windows\ref\PinPong.dll
